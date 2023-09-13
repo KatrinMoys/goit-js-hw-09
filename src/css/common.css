@@ -16,3 +16,8 @@ img {
   display: block;
   max-width: 100%;
 }
+
+.btn {
+  border-radius: 15px;
+  padding: 20px 40px;
+}
